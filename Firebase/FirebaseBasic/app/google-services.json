@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762301761304",
+    "project_id": "myfirebaserealtime-f938b",
+    "storage_bucket": "myfirebaserealtime-f938b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762301761304:android:a7a77bee0cd380273c006d",
+        "android_client_info": {
+          "package_name": "com.example.firebasebasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762301761304-v9brq6rjfia8s11ubahoe0slgg4nc1h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIAXyT0nTWJJreZW15Qu37fhSk4rxdyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762301761304-v9brq6rjfia8s11ubahoe0slgg4nc1h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
