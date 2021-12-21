@@ -37,7 +37,7 @@ class DBHelper(private val context: Context) : SQLiteOpenHelper(context, DB_NAME
     }
 
     override fun onUpgrade(db: SQLiteDatabase?, oldVersion: Int, newVersion: Int) {
-        
+        TODO("Not yet implemented")
     }
 
     fun insertIncome(amount: Double, date: String, description: String) {
