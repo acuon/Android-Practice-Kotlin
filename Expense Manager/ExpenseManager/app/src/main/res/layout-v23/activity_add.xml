@@ -34,6 +34,7 @@
         android:pointerIcon="arrow"
         android:prompt="@array/income_expense_spinner" />
 
+    
     <EditText
         android:id="@+id/etAmount"
         android:layout_width="match_parent"
